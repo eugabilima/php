@@ -1,0 +1,20 @@
+1)
+
+2)
+<?php
+$ano_nascimento=2009;
+$idade_atual=16;
+echo $idade_atual;
+?>
+<?php
+ $nome="Gabi";
+ echo $nome;
+ ?>
+<?php
+ $tem_18 = false;
+if($tem_18){
+ echo "estrada permitida";
+ } else {
+ echo "entrada negada";
+ }
+ ?>
